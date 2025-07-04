@@ -1,0 +1,14 @@
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\bin\Debug\net9.0\Financialrecursion.exe
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\bin\Debug\net9.0\Financialrecursion.deps.json
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\bin\Debug\net9.0\Financialrecursion.runtimeconfig.json
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\bin\Debug\net9.0\Financialrecursion.dll
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\bin\Debug\net9.0\Financialrecursion.pdb
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\obj\Debug\net9.0\Financialrecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\obj\Debug\net9.0\Financialrecursion.AssemblyInfoInputs.cache
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\obj\Debug\net9.0\Financialrecursion.AssemblyInfo.cs
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\obj\Debug\net9.0\Financialrecursion.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\obj\Debug\net9.0\Financialrecursion.dll
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\obj\Debug\net9.0\refint\Financialrecursion.dll
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\obj\Debug\net9.0\Financialrecursion.pdb
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\obj\Debug\net9.0\Financialrecursion.genruntimeconfig.cache
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\Financialrecursion\obj\Debug\net9.0\ref\Financialrecursion.dll

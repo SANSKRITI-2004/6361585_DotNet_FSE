@@ -1,0 +1,14 @@
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\bin\Debug\net9.0\librarymanagement.exe
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\bin\Debug\net9.0\librarymanagement.deps.json
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\bin\Debug\net9.0\librarymanagement.runtimeconfig.json
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\bin\Debug\net9.0\librarymanagement.dll
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\bin\Debug\net9.0\librarymanagement.pdb
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\obj\Debug\net9.0\librarymanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\obj\Debug\net9.0\librarymanagement.AssemblyInfoInputs.cache
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\obj\Debug\net9.0\librarymanagement.AssemblyInfo.cs
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\obj\Debug\net9.0\librarymanagement.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\obj\Debug\net9.0\librarymanagement.dll
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\obj\Debug\net9.0\refint\librarymanagement.dll
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\obj\Debug\net9.0\librarymanagement.pdb
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\obj\Debug\net9.0\librarymanagement.genruntimeconfig.cache
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\librarymanagement\obj\Debug\net9.0\ref\librarymanagement.dll

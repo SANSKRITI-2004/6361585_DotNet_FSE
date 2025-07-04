@@ -1,0 +1,14 @@
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\bin\Debug\net9.0\OrderSorting.exe
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\bin\Debug\net9.0\OrderSorting.deps.json
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\bin\Debug\net9.0\OrderSorting.runtimeconfig.json
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\bin\Debug\net9.0\OrderSorting.dll
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\bin\Debug\net9.0\OrderSorting.pdb
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\obj\Debug\net9.0\OrderSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\obj\Debug\net9.0\OrderSorting.AssemblyInfoInputs.cache
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\obj\Debug\net9.0\OrderSorting.AssemblyInfo.cs
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\obj\Debug\net9.0\OrderSorting.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\obj\Debug\net9.0\OrderSorting.dll
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\obj\Debug\net9.0\refint\OrderSorting.dll
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\obj\Debug\net9.0\OrderSorting.pdb
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\obj\Debug\net9.0\OrderSorting.genruntimeconfig.cache
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\OrderSorting\obj\Debug\net9.0\ref\OrderSorting.dll

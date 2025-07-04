@@ -1,0 +1,12 @@
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.deps.json
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.dll
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.pdb
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfoInputs.cache
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfo.cs
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.sourcelink.json
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.dll
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerCommLib\obj\Debug\net9.0\refint\CustomerCommLib.dll
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.pdb
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerCommLib\obj\Debug\net9.0\ref\CustomerCommLib.dll

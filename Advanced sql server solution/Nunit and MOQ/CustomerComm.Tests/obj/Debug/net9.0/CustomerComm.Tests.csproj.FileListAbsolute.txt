@@ -1,0 +1,8 @@
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerComm.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_CustomerComm.Tests
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerComm.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_CustomerComm.Tests
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerComm.Tests\obj\Debug\net9.0\CustomerComm.Tests.csproj.AssemblyReference.cache
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerComm.Tests\obj\Debug\net9.0\CustomerComm.Tests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerComm.Tests\obj\Debug\net9.0\CustomerComm.Tests.AssemblyInfoInputs.cache
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerComm.Tests\obj\Debug\net9.0\CustomerComm.Tests.AssemblyInfo.cs
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerComm.Tests\obj\Debug\net9.0\CustomerComm.Tests.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\DotNetFSE_excersise solution\Advanced sql server solution\Nunit and MOQ\CustomerComm.Tests\obj\Debug\net9.0\CustomerComm.Tests.sourcelink.json

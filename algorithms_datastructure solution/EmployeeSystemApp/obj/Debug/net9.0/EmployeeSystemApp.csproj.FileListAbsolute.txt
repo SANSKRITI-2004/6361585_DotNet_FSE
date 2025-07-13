@@ -1,0 +1,14 @@
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\bin\Debug\net9.0\EmployeeSystemApp.exe
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\bin\Debug\net9.0\EmployeeSystemApp.deps.json
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\bin\Debug\net9.0\EmployeeSystemApp.runtimeconfig.json
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\bin\Debug\net9.0\EmployeeSystemApp.dll
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\bin\Debug\net9.0\EmployeeSystemApp.pdb
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\obj\Debug\net9.0\EmployeeSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\obj\Debug\net9.0\EmployeeSystemApp.AssemblyInfoInputs.cache
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\obj\Debug\net9.0\EmployeeSystemApp.AssemblyInfo.cs
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\obj\Debug\net9.0\EmployeeSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\obj\Debug\net9.0\EmployeeSystemApp.dll
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\obj\Debug\net9.0\refint\EmployeeSystemApp.dll
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\obj\Debug\net9.0\EmployeeSystemApp.pdb
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\obj\Debug\net9.0\EmployeeSystemApp.genruntimeconfig.cache
+C:\Users\KIIT\DotNetFSE_excersise solution\algorithms_datastructure solution\EmployeeSystemApp\obj\Debug\net9.0\ref\EmployeeSystemApp.dll

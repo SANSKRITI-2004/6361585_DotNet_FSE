@@ -1,0 +1,19 @@
+.score-container {
+  background-color: #f0f8ff;
+  padding: 20px;
+  margin: 40px auto;
+  width: 60%;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-family: Arial, sans-serif;
+}
+
+.score-container h2 {
+  color: #003366;
+}
+
+.average {
+  font-size: 18px;
+  color: #006600;
+  font-weight: bold;
+}
